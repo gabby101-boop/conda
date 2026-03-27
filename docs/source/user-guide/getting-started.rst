@@ -57,7 +57,7 @@ Conda is available on Windows, macOS, or Linux and can be used with any terminal
 
 Creating environments
 =====================
-
+conda create-- name <gabbypractice>
 Conda allows you to create separate environments, each containing their own files, packages, and package dependencies. The contents of each environment do not interact with each other.
 
 The most basic way to create a new environment is with the following command::
